@@ -164,8 +164,16 @@
 
 
 ## 🔥 Stats 🔥
+[![Varshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshil25&show_icons=true&theme=radical)](https://github.com/Varshil25/github-readme-stats)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achris-alonzo30&layout=compact&hide_border=true&theme=transparent" align="center" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=achris-alonzo30&theme=transparent&hide_border=true" align="center" />
 </div>  
+
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varshil25&theme=nord_bright" alt="Profile Details Card">
+</div>
+

@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
 </div>
 
-### _<div align="center">Hi I'm Varshil 👋 I'm a full stack developer and entrepreneur who's passionate about creating solutions. </div>
+### _<div align="center">Hi I'm Varshil 👋 I'm a full stack developer and entrepreneur who's passionate about creating solutions. </div>_
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Varshil25&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Varshil25" /> 
 </p>

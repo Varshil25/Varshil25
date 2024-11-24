@@ -5,7 +5,7 @@
 ### _<div align="center">Hi I'm Varshil 👋 I'm a full stack developer and entrepreneur who's passionate about creating solutions. </div>_
 
 <p align="left">
-🎓 Recent Software Engineer graduate at Saffrony Institute of Technology.  
+🎓 Associate Software Engineer graduate at Saffrony Institute of Technology.  
 <br>
 🧠 I'm a quick learner and love to learn new technologies.  
 <br>

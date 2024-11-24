@@ -164,7 +164,9 @@
 
 
 ## 🔥 Stats 🔥
-[![Varshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshil25&show_icons=true&theme=radical)](https://github.com/Varshil25/github-readme-stats)
+<div align="center">
+  [![Varshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshil25&show_icons=true&theme=radical)](https://github.com/Varshil25/github-readme-stats)
+</div>
 
 
 <div align="center">

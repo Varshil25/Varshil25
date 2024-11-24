@@ -165,11 +165,6 @@
 
 ## 🔥 Stats 🔥
 <div align="center">
-  [![Varshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshil25&show_icons=true&theme=radical)](https://github.com/Varshil25/github-readme-stats)
-</div>
-
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achris-alonzo30&layout=compact&hide_border=true&theme=transparent" align="center" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=achris-alonzo30&theme=transparent&hide_border=true" align="center" />
 </div>  
@@ -178,4 +173,9 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varshil25&theme=nord_bright" alt="Profile Details Card">
 </div>
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/varshil25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshil.2507" height="30" width="40" /></a>
+<a href="https://www.instagram.com/varshil.2507/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varshil.2507" height="30" width="40" /></a>
+
 

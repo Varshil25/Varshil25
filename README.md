@@ -25,7 +25,7 @@
     <td width="33%" valign="top">
       <div align="center">
         <h3>Slack</h3>
-        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f9693bf4-d98b-4b57-9713-093c68104f34"></video>
+        <video width="100%" controls autoPlay mute src="https://github.com/Varshil25/Salon_Management_System/blob/main/videoplayback%20(1).mp4"></video>
         <br>
         <a href="https://shear-brilliance-web-lvqt.onrender.com" target="_blank">
           <button>View Site</button>

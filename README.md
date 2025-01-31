@@ -27,10 +27,10 @@
         <h3>Slack</h3>
         <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f9693bf4-d98b-4b57-9713-093c68104f34"></video>
         <br>
-        <a href="https://slack-clone-ruddy-nine.vercel.app" target="_blank">
+        <a href="https://shear-brilliance-web-lvqt.onrender.com" target="_blank">
           <button>View Site</button>
         </a>
-        <a href="=https://github.com/achris-alonzo30/slack-clone" target="_blank">
+        <a href="=[Shear_Brilliance](https://github.com/Varshil25/Salon_Management_System)" target="_blank">
           <button>View Repo</button>
         </a>
         <p>Slack Clone Website</p>

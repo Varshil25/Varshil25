@@ -30,7 +30,7 @@
         <a href="https://shear-brilliance-web-lvqt.onrender.com" target="_blank">
           <button>View Site</button>
         </a>
-        <a href="=[Shear_Brilliance](https://github.com/Varshil25/Salon_Management_System)" target="_blank">
+        <a href="=https://github.com/Varshil25/Salon_Management_System" target="_blank">
           <button>View Repo</button>
         </a>
         <p>Slack Clone Website</p>

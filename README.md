@@ -33,18 +33,21 @@
         <a href="https://github.com/Varshil25/Salon_Management_System" target="_blank">
           <button>View Repo</button>
         </a>
-        <p>Slack Clone Website</p>
+        <p>Shear Brilliance Hair Studio</p>
       </div>
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>Ryde</h3>
-        <img width="100%" height="50%" src="https://github.com/user-attachments/assets/1e85788b-4606-4aa5-b32b-ba8958a4ec9a"></video>
+        <h3>Slack</h3>
+        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f9693bf4-d98b-4b57-9713-093c68104f34"></video>
         <br>
-        <a href="https://github.com/achris-alonzo30/uber-clone" target="_blank">
+        <a href="https://admin.orioniktechnologies.com" target="_blank">
+          <button>View Site</button>
+        </a>
+        <a href="https://github.com/Varshil25/Salon_Management_System" target="_blank">
           <button>View Repo</button>
         </a>
-        <p>Uber Clone Mobile App</p>
+        <p>Slack Clone Website</p>
       </div>
     </td>
     <td width="33%" valign="top">

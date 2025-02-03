@@ -24,7 +24,7 @@
     <tr>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>Slack</h3>
+        <h3>ShearBrillianceWebDemo</h3>
         <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f87eeee0-121b-439c-9265-f8f426d7609e"></video>
         <br>
         <a href="https://shear-brilliance-web-lvqt.onrender.com" target="_blank">
@@ -38,7 +38,7 @@
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>Slack</h3>
+        <h3>ShearBrillianceAdminDemo</h3>
         <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f9693bf4-d98b-4b57-9713-093c68104f34"></video>
         <br>
         <a href="https://admin.orioniktechnologies.com" target="_blank">

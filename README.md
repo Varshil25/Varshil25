@@ -22,20 +22,26 @@
 
 <table>
     <tr>
-    <td width="33%" valign="top">
-      <div align="center">
-        <h3>ShearBrillianceWebDemo</h3>
-        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f87eeee0-121b-439c-9265-f8f426d7609e"></video>
-        <br>
-        <a href="https://shear-brilliance-web-lvqt.onrender.com" target="_blank">
-          <button>View Site</button>
-        </a>
-        <a href="https://github.com/Varshil25/Salon_Management_System" target="_blank">
-          <button>View Repo</button>
-        </a>
-        <p>Shear Brilliance Hair Studio Web</p>
-      </div>
-    </td>
+      <td width="33%" valign="top">
+        <div align="center">
+          <h3>ShearBrillianceWebDemo</h3>
+          <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f87eeee0-121b-439c-9265-f8f426d7609e"></video>
+          <br>
+          <!-- View Site Button on a new line -->
+          <a href="https://shear-brilliance-web-lvqt.onrender.com" target="_blank">
+            <button style="display:block; margin-bottom: 10px;">
+              <span>&#127758;</span> View Site
+            </button>
+          </a>
+          <!-- View Repo Button on a new line -->
+          <a href="https://github.com/Varshil25/Salon_Management_System" target="_blank">
+            <button style="display:block;">
+              <span>&#128214;</span> View Repo
+            </button>
+          </a>
+          <p>Shear Brilliance Hair Studio Web</p>
+        </div>
+      </td>
     <td width="33%" valign="top">
       <div align="center">
         <h3>ShearBrillianceAdminDemo</h3>

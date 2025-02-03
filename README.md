@@ -33,13 +33,13 @@
         <a href="https://github.com/Varshil25/Salon_Management_System" target="_blank">
           <button>View Repo</button>
         </a>
-        <p>Shear Brilliance Hair Studio</p>
+        <p>Shear Brilliance Hair Studio Web</p>
       </div>
     </td>
     <td width="33%" valign="top">
       <div align="center">
         <h3>ShearBrillianceAdminDemo</h3>
-        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f9693bf4-d98b-4b57-9713-093c68104f34"></video>
+        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/aed581bb-c496-4676-af72-2f4fa413ff93"></video>
         <br>
         <a href="https://admin.orioniktechnologies.com" target="_blank">
           <button>View Site</button>
@@ -47,7 +47,7 @@
         <a href="https://github.com/Varshil25/Salon_Management_System" target="_blank">
           <button>View Repo</button>
         </a>
-        <p>Slack Clone Website</p>
+        <p>Shear Brilliance Hair Studio Admin</p>
       </div>
     </td>
     <td width="33%" valign="top">

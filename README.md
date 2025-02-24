@@ -22,6 +22,7 @@
 
 ## About Me
 
+
 <p align="left" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: #ffffff;">
   <span style="display: inline-block; margin-right: 10px;">🎓</span> Junior Software Developer graduate from Saffrony Institute of Technology.  
   <br>

@@ -1,25 +1,38 @@
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
-
 <div align="center">
-<img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
+  <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" alt="Varshil" style="width: 200px; border-radius: 10px;" />
 </div>
 
-### _<div align="center">Hi I'm Varshil 👋 I'm a full stack developer and entrepreneur who's passionate about creating solutions. </div>_
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Varshil25&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Varshil25" /> 
-</p>
 
+<div align="center">
+  <h1>Hi, I'm Varshil 👋</h1>
+  <p>I’m a full-stack developer and entrepreneur passionate about creating innovative solutions.</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Varshil25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
+
+
+<!-- Animated GIFs on left and right -->
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display: inline; border-radius: 5px;" />
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display: inline; border-radius: 5px;" />
+</div>
+
+---
+
+## About Me
 
 <p align="left">
-🎓 Junior software Developer graduate from Saffrony Institute of Technology.  
-<br>
-🧠 I'm a quick learner and love to learn new technologies.  
-<br>
-💪 Proficient in both front-end and back-end, bringing creative ideas to code. 
-<br>
-🏋️‍♂️ Besides programming, I love Sports. 
+  <span style="display: inline-block; margin-right: 10px;">🎓</span> Junior Software Developer graduate from Saffrony Institute of Technology.  
+  <br>
+  <span style="display: inline-block; margin-right: 10px;">🧠</span> I’m a quick learner and love to master new technologies.  
+  <br>
+  <span style="display: inline-block; margin-right: 10px;">💪</span> Proficient in both front-end and back-end, bringing creative ideas to life through code.  
+  <br>
+  <span style="display: inline-block; margin-right: 10px;">🏋️‍♂️</span> Besides programming, I’m passionate about sports.
 </p>
+
+---
 
 ## ✨ Projects Highlights ✨
 

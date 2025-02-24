@@ -1,28 +1,28 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" alt="Varshil" style="width: 200px; border-radius: 10px;" />
-</div>
-
-
-<div align="center">
-  <h1>Hi, I'm Varshil 👋</h1>
-  <p>I’m a full-stack developer and entrepreneur passionate about creating innovative solutions.</p>
+<div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" alt="Varshil" style="width: 1000px; height: auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <h1 style="color: #ffffff; font-size: 2.5em; margin: 20px 0 10px;">Hi, I'm Varshil 👋</h1>
+  <p style="color: #cccccc; font-size: 1.2em; margin-bottom: 20px;">I’m a full-stack developer and entrepreneur passionate about creating innovative solutions.</p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Varshil25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
-
-<!-- Animated GIFs on left and right -->
-<div style="display: flex; justify-content: space-between; margin: 20px 0;">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display: inline; border-radius: 5px;" />
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display: inline; border-radius: 5px;" />
+<!-- Animated GIFs on left and right with particle effects -->
+<div style="position: relative; background-color: #1a1a1a; padding: 20px; overflow: hidden;">
+  <!-- Pink particle effects (simulated with CSS, but you can use an image or GIF if available) -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://example.com/pink-particles.gif') no-repeat center; opacity: 0.3; pointer-events: none;"></div>
+  
+  <div style="display: flex; justify-content: space-between; margin: 20px 0; position: relative; z-index: 1;">
+    <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display: inline; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
+    <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display: inline; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
+  </div>
 </div>
 
 ---
 
 ## About Me
 
-<p align="left">
+<p align="left" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: #ffffff;">
   <span style="display: inline-block; margin-right: 10px;">🎓</span> Junior Software Developer graduate from Saffrony Institute of Technology.  
   <br>
   <span style="display: inline-block; margin-right: 10px;">🧠</span> I’m a quick learner and love to master new technologies.  

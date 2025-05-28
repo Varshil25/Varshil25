@@ -29,8 +29,8 @@
     <tr>
        <td width="33%" valign="top">
         <div align="center">
-          <h3>Varshil-Portfolio</h3>
-          <video width="100%" controls autoPlay mute src="https://github.com/Varshil25/Varshil-Portfolio/issues/2#issue-3097235963"></video>
+          <h3>VarshilPortfolio</h3>
+          <video width="100%" controls autoPlay mute src="https://private-user-images.githubusercontent.com/130171937/448395170-764fbecd-cb5a-433e-99c1-d0c04e19925f"></video>
           <br>
           <!-- View Site Button on a new line -->
           <a href="http://varshil-portfolio.onrender.com" target="_blank">
@@ -50,7 +50,7 @@
       <td width="33%" valign="top">
         <div align="center">
           <h3>ShearBrillianceWebDemo</h3>
-          <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f87eeee0-121b-439c-9265-f8f426d7609e"></video>
+            <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f87eeee0-121b-439c-9265-f8f426d7609e"></video>
           <br>
           <!-- View Site Button on a new line -->
           <a href="https://shear-brilliance-web-lvqt.onrender.com" target="_blank">

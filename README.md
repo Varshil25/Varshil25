@@ -30,7 +30,7 @@
        <td width="33%" valign="top">
         <div align="center">
           <h3>Varshil-Portfolio</h3>
-          <video width="100%" controls autoPlay mute src="https://github.com/Varshil25/Varshil-Portfolio/issues/1#issue-3097193492"></video>
+          <video width="100%" controls autoPlay mute src="https://github.com/Varshil25/Varshil-Portfolio/issues/2#issue-3097235963"></video>
           <br>
           <!-- View Site Button on a new line -->
           <a href="http://varshil-portfolio.onrender.com" target="_blank">
@@ -67,20 +67,20 @@
           <p>Shear Brilliance Hair Studio Web</p>
         </div>
       </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <h3>ShearBrillianceAdminDemo</h3>
-        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/aed581bb-c496-4676-af72-2f4fa413ff93"></video>
-        <br>
-        <a href="https://admin.orioniktechnologies.com" target="_blank">
-          <button>View Site</button>
-        </a>
-        <a href="https://github.com/Varshil25/Salon_Management_System" target="_blank">
-          <button>View Repo</button>
-        </a>
-        <p>Shear Brilliance Hair Studio Admin</p>
-      </div>
-    </td>
+      <td width="33%" valign="top">
+        <div align="center">
+          <h3>ShearBrillianceAdminDemo</h3>
+          <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/aed581bb-c496-4676-af72-2f4fa413ff93"></video>
+          <br>
+          <a href="https://admin.orioniktechnologies.com" target="_blank">
+            <button>View Site</button>
+          </a>
+          <a href="https://github.com/Varshil25/Salon_Management_System" target="_blank">
+            <button>View Repo</button>
+          </a>
+          <p>Shear Brilliance Hair Studio Admin</p>
+        </div>
+      </td>
   </tr>
 </table>
 

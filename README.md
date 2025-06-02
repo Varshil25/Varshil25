@@ -135,6 +135,17 @@
 
 
 <div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshil25&layout=compact&theme=nightowl)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Varshil25&theme=midnight-purple)](https://git.io/streak-stats)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Varshil25&theme=juicyfresh&no-frame=true&margin-w=4)
+
+</div>
+
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varshil25&theme=nord_bright" alt="Profile Details Card">
 </div>
 
